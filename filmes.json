@@ -1,0 +1,20 @@
+[
+    {"titulo":"Donnie Darko",
+    "ano":"2001",
+    "diretor":"Richard Kelly",
+    "genero":"Thriller/Ficção científica",
+    "url_cartaz": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a260721ab586358d09419a3a03aaa344dd76295fcdcbc73977ce4859cc4c6f5f._RI_TTW_.jpg"
+    },
+    {"titulo":"Akira",
+    "ano":"1988",
+    "diretor":"Katsuhiro Otomo",
+    "genero":"Ação/Ficção científica",
+    "url_cartaz": "https://m.media-amazon.com/images/I/91SI73USlHL._AC_UF894,1000_QL80_.jpg"
+    },
+    {"titulo":"White Boy Rick",
+    "ano":"2018",
+    "diretor":"Yann Demange",
+    "genero":"Crime/Thriller",
+    "url_cartaz": "https://br.web.img3.acsta.net/pictures/18/08/31/12/36/5549835.jpg"
+    }
+]
